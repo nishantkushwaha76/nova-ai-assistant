@@ -18,7 +18,7 @@ langgraph-checkpoint-sqlite==3.1.0
 faiss-cpu==1.13.2
 pypdf==6.9.2
 
-# --- Phase 1 additions: MCP + Google APIs ---
+# --- MCP + Google APIs ---
 mcp>=1.2.0
 langchain-mcp-adapters>=0.1.0
 google-api-python-client>=2.150.0
